@@ -27,7 +27,7 @@ export default function Layout({ children, style }: MainLayoutProps) {
                 setSignUpModal(true)
               }}
             >
-              Sign Up
+              Sign Upxxx
             </button>
             <button
               className=' hover:underline'
