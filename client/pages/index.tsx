@@ -17,6 +17,7 @@ export default function Home() {
   return (
     <div className='flex justify-center items-center text-3xl pt-4'>
       <div>Welcome to The Magic Book Store</div>
+      <div>say hi</div>
     </div>
   )
 }
